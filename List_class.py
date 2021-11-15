@@ -1,4 +1,4 @@
-class List:
+class list:
     """lists,ordered,mutable,allow duplicate data""" 
     def list_func(self):
         mylist=[1,23,45,778,99,0,666,88,22,67,88,112,34,89,34,567]
